@@ -42,5 +42,6 @@ Tabela comenzilor:  (Orders Table)
 -Id Angajati;       (Employer ID)   
 -Destinatia;        (Destination)
 
+Depending on what sofware you use, you may have to change some syntax here and there.   
 
 ![WhatsApp Image 2021-08-16 at 12 45 50](https://user-images.githubusercontent.com/61887287/129544640-2d885ea8-9ecc-4392-aca6-3f837bd34b78.jpeg)
