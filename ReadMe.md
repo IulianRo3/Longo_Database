@@ -1,4 +1,4 @@
-This is an imaginary database, created for a college project, which took place over a period of about a year.
+This is an imaginary database, created for a college project, which took place over a period of about a year.   
 Story of the database:
 Our role is to create a fluid organization in the company, where each employee has their own truck, to keep track of our customers 
 (company of origin, contact phone, name, etc.) and the orders they give. , which requires extra attention not to have, for example, 
