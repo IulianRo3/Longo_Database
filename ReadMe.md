@@ -33,5 +33,14 @@ Tabela clientilor:  (Customers Table)
 -Firma               (Company)               
 -Sex                 (Gender)                          
    
+Tabela comenzilor:  (Orders Table)                 
+-Nr. Comenzii;      (Order Number)                      
+-Data;              (Date)                
+-Cod_Camion;        (Truck ID)                    
+-Incarcatura;       (Loading)                           
+-Id Client;         (Customer ID)               
+-Id Angajati;       (Employer ID)   
+-Destinatia;        (Destination)
+
 
 ![WhatsApp Image 2021-08-16 at 12 45 50](https://user-images.githubusercontent.com/61887287/129544640-2d885ea8-9ecc-4392-aca6-3f837bd34b78.jpeg)
